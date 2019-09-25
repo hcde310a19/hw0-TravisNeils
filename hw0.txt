@@ -13,3 +13,6 @@ I am worried that I missed something in the steps. It isn't satisfying not being
 to check and see if my method works to count the words. I also don't know the specifics
 on how the file would read in and what sort of aditional steps would be required before
 we could parse through the chars, or what libraries could help for us.
+
+I would like to learn more applications for python outside of an console or ide, like
+desktop or mobble apps, or external hardware like rasberry pi.
