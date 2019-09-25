@@ -1,3 +1,15 @@
 # Description of your program (part 7)
+To count the number or words in this txt doc
+- read the document into a variable in the program
+- go through the doument character by character if the character is space or a new line add one to the count
+- stop when we get to the end of the document
+
+alternate method:
+- read document
+- use a method in a library that has a word count funciton.
 
 # Reflection on writing your program (part 8)
+I am worried that I missed something in the steps. It isn't satisfying not being able
+to check and see if my method works to count the words. I also don't know the specifics
+on how the file would read in and what sort of aditional steps would be required before
+we could parse through the chars, or what libraries could help for us.
