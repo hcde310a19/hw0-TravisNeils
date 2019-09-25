@@ -15,4 +15,6 @@ on how the file would read in and what sort of aditional steps would be required
 we could parse through the chars, or what libraries could help for us.
 
 I would like to learn more applications for python outside of an console or ide, like
-desktop or mobble apps, or external hardware like rasberry pi.
+desktop or mobble apps, or external hardware like rasberry pi. I would like to become more
+confident with apis, right now I often run in to problems where they don't accept my keys or
+i have the wrong headers.
